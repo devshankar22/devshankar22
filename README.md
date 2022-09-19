@@ -29,5 +29,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devshankar22&show_icons=true&locale=en&layout=compact" alt="devshankar22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devshankar22&show_icons=true&locale=en" alt="devshankar22" /></p>
+<p>
+<img align="left" src="https://leetcard.jacoblin.cool/devshankar?theme=dark&font=Adamina" width="418" />
+</p>
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshankar22&" alt="devshankar22" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshankar22&" alt="devshankar22" /></p>
+![Daily Activity](https://activity-graph.herokuapp.com/graph?username=devshankar22&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
+
+## 👀 Visitors count
+
+<img src="https://profile-counter.glitch.me/devshankar22/count.svg" />
+

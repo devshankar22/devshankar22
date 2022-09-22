@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **Data Structures**
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 👯 I’m looking to collaborate on **FMAANG Complanies**
+- 🌱 I’m currently learning **Django Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devshankar22](https://github.com/devshankar22)
 

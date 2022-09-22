@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devshankar22&show_icons=true&locale=en&layout=compact" alt="devshankar22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devshankar22&show_icons=true&locale=en" alt="devshankar22" width="300"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devshankar22&show_icons=true&locale=en" alt="devshankar22" width="300" height='200'/></p>
 <p>
 <img align="left" src="https://leetcard.jacoblin.cool/devshankar?theme=dark&font=Adamina" width="300" />
 </p>
